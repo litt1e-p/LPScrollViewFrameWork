@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  LPScrollView
 //
-//  Created by xzc on 15/9/21.
+//  Created by litt1e-p on 15/9/21.
 //  Copyright © 2015年 litt1e-p. All rights reserved.
 //
 
